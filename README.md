@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Olivier</h1>
-<h3 align="center">Believer in AI for building a better world and doing my small part via medical imaging 🧠🫀🏥🩻🙂 </h3>
+<h3 align="center">Believer in using AI for building a better world and doing my small part via medical imaging 🧠🫀🏥🩻🙂 </h3>
 
 - 🔭📸 I’m currently working for [Canon Medical Research Europe](https://research.eu.medical.canon/) on exciting Medical Imaging AI Projects !
 
-- 🫀🧠 Know about my experiences [LinkedIn](https://www.linkedin.com/in/jaubert-olivier/)
+- 🫀🧠 Know about my experiences via my [personal website](https://olivier-jaubert-portfolio.vercel.app/) or [LinkedIn](https://www.linkedin.com/in/jaubert-olivier/)
 
 - 📄🤓 Know more about my published papers: [Google scholar: Olivier Jaubert](https://scholar.google.co.uk/citations?user=_0SCLEsAAAAJ&hl=fr)
 
