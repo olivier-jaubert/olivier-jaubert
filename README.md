@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Olivier</h1>
 <h3 align="center">Believer in using AI for building a better world and doing my small part via medical imaging 🧠🫀🏥🩻🙂 </h3>
 
-- 🔭📸 I’m currently working for [Canon Medical Research Europe](https://research.eu.medical.canon/) on exciting Medical Imaging AI Projects !
+- 🔭📸 I’m currently working for [Microsoft Health Futures](https://www.microsoft.com/en-us/research/lab/microsoft-health-futures/?msockid=0aef736d336b67c50153647d321666d5) on exciting Medical Imaging AI Projects !
 
 - 🫀🧠 Know about my experiences via my [personal website](https://olivier-jaubert-portfolio.vercel.app/) or [LinkedIn](https://www.linkedin.com/in/jaubert-olivier/)
 
